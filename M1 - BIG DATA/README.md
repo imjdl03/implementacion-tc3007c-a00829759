@@ -8,7 +8,7 @@ Esta es la carpeta del Portafolio de Implementación para el Modulo 1 - Big Data
 La carpeta "M1 - BIGDATA" incluye los siguientes archivos para su revision:
 
 * **Archivos**
-  * README.md: Este archivo 
-* **Folders**
+  * README.md: Este archivo
   * A1 - Creacion de usuario en linux.pdf: Archivo PDF correspondiene al reporte de la actividad.
   * A2 - Instalacion de Spark en AWS.pdf: Archivo PDF correspondiene al reporte de la actividad.
+* **Folders**
